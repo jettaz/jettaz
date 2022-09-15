@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/jettaz/jettaz/main/welcome.gif)
+![image](https://raw.githubusercontent.com/jettaz/jettaz/main/Welcome.gif)
 
 <!--
 **jettaz/jettaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
