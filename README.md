@@ -1,4 +1,4 @@
-![image](https://i.pinimg.com/originals/18/0f/79/180f79053ea4dc4fa90151c1f92277d2.gif)
+![image](https://github.com/larsjanssen6/larsjanssen6/blob/master/dino.gif)
 
 <!--
 **jettaz/jettaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
